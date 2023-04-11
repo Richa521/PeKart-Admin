@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "272499029565",
+    "project_id": "paysa-d0fa7",
+    "storage_bucket": "paysa-d0fa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272499029565:android:e1cf4015470272c58ddc54",
+        "android_client_info": {
+          "package_name": "com.example.kartadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272499029565-r93or2rnsrqrspk7q91ai44hiei4comr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPsQ4XuEBG9xj1Mas6ep6EnI3FJ21VBa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272499029565-r93or2rnsrqrspk7q91ai44hiei4comr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272499029565:android:b67a8c54b50058058ddc54",
+        "android_client_info": {
+          "package_name": "com.example.paysa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272499029565-r93or2rnsrqrspk7q91ai44hiei4comr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPsQ4XuEBG9xj1Mas6ep6EnI3FJ21VBa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272499029565-r93or2rnsrqrspk7q91ai44hiei4comr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
